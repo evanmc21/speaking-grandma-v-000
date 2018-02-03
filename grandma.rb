@@ -13,8 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma("Hi Nana, how are you?")
-  if speak_to_grandma == "HI NANA, HOW ARE YOU?"
+def speak_to_grandma(phrase)
+  if phrase == phrase.uppercase
     puts "NO, NOT SINCE 1938!"
   elsif
     puts "HUH?! SPEAK UP, SONNY!"
